@@ -1,3 +1,4 @@
+//Newton-Raphson Method Program V 1.0.0 / Programa del metodo de Newton-Raphson V 1.0.0
 #ifndef NEWSON_H
 #define NEWSON_H
 
