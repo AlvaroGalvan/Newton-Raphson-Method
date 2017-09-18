@@ -1,3 +1,4 @@
+//Newton-Raphson Method Program V 1.0.0 / Programa del metodo de Newton-Raphson V 1.0.0
 #include "newson.h"
 #include "ui_newson.h"
 #include <cmath> // Library for allow mathematical functions in the program.
